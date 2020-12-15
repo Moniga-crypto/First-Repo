@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 file 8 first time adding
 1234
 5678
+=======
+file 8 first time adding
+>>>>>>> acd5177d1be7a80d6469cdbed38b8bb13c9df7ea
